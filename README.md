@@ -1,9 +1,7 @@
 ### Hello! I am Mingya,
 
 I am a PhD student in Quantitative Methods at the University of Wisconsin - Madison advised by [Prof. David Kaplan](https://edpsych.education.wisc.edu/fac-staff/kaplan-david/). I also have an MS in Statistics working with [Prof. Sameer Deshpande](https://skdeshpande91.github.io/). 
-
 I am pursuing research in Bayesian statistics, machine learning, and causal inference. Currently, my work focuses on Bayesian nonparametrics and its application in large scale clustered data. 
-
 Prior to joining UW-Madison, I graduated with an MS in Quantitative Methods under the supervision of [Prof. Carolyn Anderson](https://stat.illinois.edu/directory/profile/cja) at Uinversity of Illinois at Urbana Champaign (2019). My CV and contact details can be found on my [website](https://ajinkya-k.github.io/).
 
 
