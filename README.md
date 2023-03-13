@@ -1,4 +1,4 @@
-### Hi there 👋 I am Mingya,
+### Hello! I am Mingya,
 
 I am a PhD student in Quantitative Methods at the University of Wisconsin - Madison advised by [Prof. David Kaplan](https://edpsych.education.wisc.edu/fac-staff/kaplan-david/). I also have an MS in Statistics working with [Prof. Sameer Deshpande](https://skdeshpande91.github.io/). 
 
