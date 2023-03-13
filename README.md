@@ -4,7 +4,7 @@ I am a PhD student in Quantitative Methods at the University of Wisconsin - Madi
 
 I am pursuing research in Bayesian statistics, machine learning, and causal inference. Currently, my work focuses on Bayesian nonparametrics and its application in large scale clustered data. 
 
-Prior to joining UW-Madison, I graduated with a MS in Quantitative Methods under the supervision of [Prof. Carolyn Anderson](https://stat.illinois.edu/directory/profile/cja) at Uinversity of Illinois at Urbana Champaign (2019). My CV and contact details can be found on my [website](https://ajinkya-k.github.io/).
+Prior to joining UW-Madison, I graduated with an MS in Quantitative Methods under the supervision of [Prof. Carolyn Anderson](https://stat.illinois.edu/directory/profile/cja) at Uinversity of Illinois at Urbana Champaign (2019). My CV and contact details can be found on my [website](https://ajinkya-k.github.io/).
 
 
 
