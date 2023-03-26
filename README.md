@@ -2,7 +2,7 @@
 
 I am a PhD student in Quantitative Methods advised by [Dr. David Kaplan](https://edpsych.education.wisc.edu/fac-staff/kaplan-david/) at University of Wisconsin - Madison. I also have an MS in Statistics at UW working with [Dr. Sameer Deshpande](https://skdeshpande91.github.io/). 
 I am pursuing research in Bayesian statistics, machine learning, and causal inference. Currently, my work focuses on Bayesian nonparametrics and its application in large scale clustered data. 
-Prior to joining UW-Madison, I graduated with an MS in Quantitative Methods under the supervision of [Dr. Carolyn Anderson](https://stat.illinois.edu/directory/profile/cja) at Uinversity of Illinois at Urbana Champaign (2019). My CV and contact details can be found on my [website](https://ajinkya-k.github.io/).
+Prior to joining UW-Madison, I graduated with an MS in Quantitative Methods under the supervision of [Dr. Carolyn Anderson](https://stat.illinois.edu/directory/profile/cja) at Uinversity of Illinois at Urbana Champaign (2019). My CV and contact details can be found on my [website](https://https://mhuang233.com/).
 
 
 
