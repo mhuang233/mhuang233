@@ -1,12 +1,11 @@
 ### Hello! I am Mingya!
-
+I am a PhD student in Quantitative Methods advised by [Dr. David Kaplan](https://edpsych.education.wisc.edu/fac-staff/kaplan-david/) in the department of Educational Psychology and [Dr. Sameer Deshpande] (https://skdeshpande91.github.io/) in the department of Statistics at University of Wisconsin-Madison. Prior to joining UW-Madison, I graduated with an M.S. in Quantitative Methods under the supervision of [Dr. Carolyn Anderson](https://stat.illinois.edu/directory/profile/cja) at Uinversity of Illinois Urbana-Champaign (2019). 
+I am pursuing research in Bayesian statistics, machine learning, and causal inference. Currently, my work focuses on Bayesian nonparametrics and its application in large scale clustered data. My CV and contact details can be found on my [website](https://mhuang233.github.io/).
 
 
 <!--
 **mhuang233/mhuang233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I am a PhD student in Quantitative Methods advised by [Dr. David Kaplan](https://edpsych.education.wisc.edu/fac-staff/kaplan-david/) in the department of Educational Psychology at University of Wisconsin - Madison. Meanwhile, I also have an MS in Statistics working with [Dr. Sameer Deshpande](https://skdeshpande91.github.io/). 
-I am pursuing research in Bayesian statistics, machine learning, and causal inference. Currently, my work focuses on Bayesian nonparametrics and its application in large scale clustered data. 
-Prior to joining UW-Madison, I graduated with an MS in Quantitative Methods under the supervision of [Dr. Carolyn Anderson](https://stat.illinois.edu/directory/profile/cja) at Uinversity of Illinois Urbana-Champaign (2019). My CV and contact details can be found on my [website](https://mhuang233.com/).
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
