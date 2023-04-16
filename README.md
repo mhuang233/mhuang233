@@ -1,5 +1,5 @@
 ### Hello! I am Mingya,
-I am a PhD student in Quantitative Methods advised by [Dr. David Kaplan](https://edpsych.education.wisc.edu/fac-staff/kaplan-david/) in the Department of Educational Psychology and [Dr. Sameer Deshpande](https://skdeshpande91.github.io/) in the Department of Statistics at University of Wisconsin-Madison. Prior to that, I graduated with an M.S. in Quantitative Methods under the supervision of [Dr. Carolyn Anderson](https://stat.illinois.edu/directory/profile/cja) at Uinversity of Illinois Urbana-Champaign (2019). 
+I am a PhD student in Quantitative Methods working with [Dr. David Kaplan](https://edpsych.education.wisc.edu/fac-staff/kaplan-david/) in the Department of Educational Psychology and [Dr. Sameer Deshpande](https://skdeshpande91.github.io/) in the Department of Statistics at University of Wisconsin-Madison. Prior to that, I graduated with an M.S. in Quantitative Methods under the supervision of [Dr. Carolyn Anderson](https://stat.illinois.edu/directory/profile/cja) at Uinversity of Illinois Urbana-Champaign (2019). 
 I am pursuing research in Bayesian statistics, machine learning, and causal inference. Currently, my work focuses on Bayesian nonparametrics and its application in large scale clustered data. My CV and contact details can be found on my [website](https://mhuang233.github.io/).
 
 
